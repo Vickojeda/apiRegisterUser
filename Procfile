@@ -1,0 +1,1 @@
+web: gunicorn registerUserApp.wsgi --log-file -
